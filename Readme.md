@@ -1,5 +1,5 @@
 
-Dans ce TP sur les web components je me suis uniquement base sur ce que vous nous avez montrer en classe pour coder :
+Dans ce TP sur les web components je me suis uniquement basé  sur ce que vous nous avez montré en classe pour coder :
 
 Les switches : Play / Pause / +10s / -10s
 
